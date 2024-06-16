@@ -107,7 +107,7 @@
     "skipLibCheck": true  
   },
     "include": [
-      "src/**/*"   
+      "src/"   
     ],
     "exclude": [
       "node_modules", // It's a good practice to exclude node_modules
