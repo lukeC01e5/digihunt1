@@ -1,0 +1,17 @@
+# Ignore the src folder
+/src/
+
+# Ignore compiled JavaScript files
+#*.js
+
+# Ignore TypeScript declaration files
+#*.d.ts
+
+# Ignore TypeScript source map files
+*.map
+
+# Ignore build output folder
+#/dist/
+
+# Ignore development dependencies
+/node_modules/
